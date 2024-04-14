@@ -2,7 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-db/*.db
+db/db/*
+db/sql/inserts/*
 
 ### Eclipse ###
 .apt_generated
